@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">newapp</string>
+    <string name="name">\u0020\u0020\u0020\u0020MIHAI STANICA \nANDROID DEVELOPER</string>
+    <string name="phone">+1\u0020457\u0020892\u00201010 \n+1\u0020321\u0020974\u00201010</string>
+    <string name="web">mail@yourwebsite.com \nwww.yourwebsite.com</string>
+    <string name="home">Your address here, \n\u0020\u0020street, city, zip</string>
+</resources>
